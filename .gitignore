@@ -1,0 +1,11 @@
+elf2uf2/
+Makefile
+CMakeFiles/
+CMakeCache.txt
+generated/
+*.hex
+*.bin
+*.elf
+*.uf2
+*.dis
+*.map
